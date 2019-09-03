@@ -1,0 +1,15 @@
+[submodule "svc/users"]
+	path = svc/users
+	url = https://github.com/apriorit/Soroka-Users
+[submodule "svc/sessions"]
+	path = svc/sessions
+	url = https://github.com/apriorit/Soroka-Sessions
+[submodule "svc/templates"]
+	path = svc/templates
+	url = https://github.com/apriorit/Soroka-Templates
+[submodule "svc/documents"]
+	path = svc/documents
+	url = https://github.com/apriorit/Soroka-Documents
+[submodule "svc/sign"]
+	path = svc/sign
+	url = https://github.com/apriorit/Soroka-Sign
